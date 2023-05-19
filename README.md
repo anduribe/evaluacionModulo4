@@ -13,6 +13,8 @@
 - BootStrap
 - Programación Modular
 - Google Fonts
+- CSS
+- HTML
 
 ## 🛠️ Descarga y prueba el proyecto
 
