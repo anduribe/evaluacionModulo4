@@ -12,6 +12,7 @@
 - Jquery
 - BootStrap
 - Programación Modular
+- Google Fonts
 
 ## 🛠️ Descarga y prueba el proyecto
 
