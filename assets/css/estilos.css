@@ -35,6 +35,19 @@ body {
   left: 10%;
 }
 
+.rango {
+  position: absolute;
+  left: -95px;
+  top:15px;
+  text-align: center;
+  color: #ff0;
+}
+.neon-text {
+  color: yellow; /* Color base del texto */
+  text-shadow: 0 0 5px yellow, 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow, 0 0 40px yellow, 0 0 50px yellow, 0 0 60px yellow; /* Efecto de neón */
+  font-size: 20px; /* Tamaño del texto */
+  font-family: 'Arial', sans-serif; /* Fuente del texto */
+}
 .timeline-icon {
   position: absolute;
   left: -35px;
@@ -186,5 +199,19 @@ h5 {
     flex-direction: row;
     flex-wrap: wrap;
     margin-left: 0px;
+  }
+
+  .rango {
+    position: absolute;
+    left: -5px;
+    top:15px;
+    text-align: center;
+    color: #ff0;
+  }
+  .neon-text {
+    color: yellow; /* Color base del texto */
+    text-shadow: 0 0 5px yellow, 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow, 0 0 40px yellow, 0 0 50px yellow, 0 0 60px yellow; /* Efecto de neón */
+    font-size: 16px; /* Tamaño del texto */
+    font-family: 'Arial', sans-serif; /* Fuente del texto */
   }
 }
