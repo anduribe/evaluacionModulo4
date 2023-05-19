@@ -8,7 +8,7 @@
 **Nota :** En lo personal no me parece la mejor opcion debido a que en modo mobile funcionaria mejor usar clic. 
 
 ## :heavy_check_mark: Tecnologías utilizadas
-- JavaScript ES&
+- JavaScript ES6
 - Jquery
 - BootStrap
 - Programación Modular
